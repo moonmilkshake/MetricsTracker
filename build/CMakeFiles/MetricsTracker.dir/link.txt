@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MetricsTracker.dir/MetricsTracker_autogen/mocs_compilation.cpp.o CMakeFiles/MetricsTracker.dir/src/main.cpp.o CMakeFiles/MetricsTracker.dir/src/mainwindow.cpp.o -o MetricsTracker  /usr/lib/aarch64-linux-gnu/libQt5Widgets.so.5.15.8 /usr/lib/aarch64-linux-gnu/libQt5Gui.so.5.15.8 /usr/lib/aarch64-linux-gnu/libQt5Core.so.5.15.8 

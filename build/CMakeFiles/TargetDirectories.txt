@@ -1,0 +1,4 @@
+/home/moonmilkshake/Desktop/Projects/MetricsTracker/build/CMakeFiles/MetricsTracker.dir
+/home/moonmilkshake/Desktop/Projects/MetricsTracker/build/CMakeFiles/edit_cache.dir
+/home/moonmilkshake/Desktop/Projects/MetricsTracker/build/CMakeFiles/rebuild_cache.dir
+/home/moonmilkshake/Desktop/Projects/MetricsTracker/build/CMakeFiles/MetricsTracker_autogen.dir
